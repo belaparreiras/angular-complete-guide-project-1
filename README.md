@@ -8,7 +8,7 @@ The main goal was to learn and practice a few of angular's essential features, w
 
 ## 📸 Preview
 
-![App Screenshot](./ACG%20-%20Project%201%20-%20Preview%201.png)
+![App Screenshot](ACG%20-%20Project%201%20-%20Preview.png)
 
 ---
 
