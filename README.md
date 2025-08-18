@@ -1,3 +1,31 @@
+# Angular Complete Guide - Project 1
+# Demo App - EasyTask
+
+This project was developed as part of @mschwarzmueller’s [*Angular – The Complete Guide*](https://www.udemy.com/course/the-complete-guide-to-angular-2/) course on Udemy.  
+The main goal was to learn and practice a few of angular's essential features, while also experimenting with custom styling to add my personal touch.  
+
+---
+
+## 📸 Preview
+
+![App Screenshot](./ACG%20-%20Project%201%20-%20Preview%202.png)
+
+---
+
+## 🖼️ Featured Illustrations
+
+- All user and header icons were designed by [FreePik](https://www.typescriptlang.org/)
+
+---
+
+## 📚 Features / Learnings
+
+- Creating and reusing Angular components
+- Passing data with @Input and @Output
+- Component interaction and data binding
+- Basic project structure with Angular CLI
+
+
 # Essentials
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
