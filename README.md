@@ -26,7 +26,7 @@ The main goal was to learn and practice a few of angular's essential features, w
 - Basic project structure with Angular CLI
 
 
-# Essentials
+# Angular Complete Guide - Project 1
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
 
